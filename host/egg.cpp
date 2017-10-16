@@ -72,7 +72,7 @@ float resizex = 1;
 float resizey = 1;
 bool t = false;
 
-int fc = 1760;
+int fc = 880;
 
 //-----------------------------------------------------------------------------
 // name: help()

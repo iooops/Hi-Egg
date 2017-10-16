@@ -4,9 +4,9 @@
 ## Source code
 [Hi, Egg~](https://github.com/iooops/Hi-Egg)
 
-## Screenshots
-![Screenshots](screenshots/onlyInput.png)
-![Screenshots](screenshots/input+ringMod.png)
+##Videos
+[Hi,Egg~ Episode 1](https://youtu.be/r0Zy97rcV8g)
+[Hi,Egg~ Episode 2](https://youtu.be/5l_04CZ9BfQ)
 
 
 ## Build 
@@ -29,6 +29,9 @@ At the command line, enter
 It's fairly simple.
 **I want to depict an egg on the stage. The stage(the cyan background) is controlled only by input. Initially, the chuck ring modulation is not activated. After activated, the egg will be turned to pink and it will start to wobble. Also, the spectrum next to it will start to show the output results.**
 
+## Screenshots
+![Screenshots](screenshots/onlyInput.png)
+![Screenshots](screenshots/input+ringMod.png)
 
 ## Difficulties I encountered in the process
 
