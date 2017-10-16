@@ -1,6 +1,6 @@
 # Homework II
+----
 
-￼
 ## Screenshots
 ![Screenshots](screenshots/onlyInput.png)
 ![Screenshots](screenshots/input+ringMod.png)
