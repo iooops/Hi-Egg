@@ -4,7 +4,7 @@
 ## Source code
 [Hi, Egg~](https://github.com/iooops/Hi-Egg)
 
-##Videos
+## Videos
 [Hi,Egg~ Episode 1](https://youtu.be/r0Zy97rcV8g)
 [Hi,Egg~ Episode 2](https://youtu.be/5l_04CZ9BfQ)
 
