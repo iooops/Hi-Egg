@@ -6,7 +6,8 @@
 ![Screenshots](screenshots/input+ringMod.png)
 
 <br />
-## Build
+## Build 
+
 At the command line, enter
 	
 	make
