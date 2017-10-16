@@ -1,5 +1,7 @@
 # Homework II
 
+## Source code
+[Hi, Egg~](https://github.com/iooops/Hi-Egg)
 
 ## Screenshots
 ![Screenshots](screenshots/onlyInput.png)
