@@ -1,6 +1,5 @@
 # Homework II
----
----
+
 ￼
 ##Screenshots
 ![Screenshots](screenshots/onlyInput.png)
